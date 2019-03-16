@@ -1,2 +1,2 @@
 # twitchChatBot
-Trying out a Twitch bot tutorial using Node.js
+Trying out a Twitch Chatbot tutorial using Node.js
